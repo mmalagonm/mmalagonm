@@ -1,53 +1,78 @@
-# Hola, soy Manuel Malagón 👋
-### SysAdmin en formación | ASIR | Entusiasta de Redes y Automatización
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=SysAdmin%20%26%20Network%20Op&fontSize=70&fontColor=ffffff)
-
-Soy un **Técnico Superior en Administración de Sistemas (ASIR)** con pasión por conectar cosas (Redes) y automatizar las aburridas (Scripting). Actualmente busco oportunidades para aplicar mis conocimientos en infraestructura híbrida (Windows/Linux) y Cloud.
-
----
-
-### 🚀 Mis Proyectos Destacados
-
-He organizado mi trabajo en dos grandes áreas. Haz clic para ver el código:
-
-| 🔧 **Scripting & Automatización** | 🌐 **Laboratorios Cisco & Redes** |
-| :--- | :--- |
-| [**Ver Repositorio**](https://github.com/mmalagonm/SysAdmin-Network-Toolkit) | [**Ver Repositorio**](https://github.com/mmalagonm/Cisco-PacketTracer-Labs) |
-| Automatización de tareas con **Python, PowerShell y Bash**. | Simulaciones complejas de **Routing, Switching y DNS**. |
-| *Incluye: Menús de administración Linux/Windows, Alta masiva de usuarios y Escáner de puertos.* | *Incluye: WAN de 10 Routers, Servidores DNS y Seguridad.* |
-
----
-
-### 🛠️ Tech Stack (Lo que uso)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OS-Windows_Server-blue?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/OS-Linux_Debian-orange?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Network-Cisco_CCNA-yellow?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoft-azure" />
-  <br>
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Code-PowerShell-5391FE?style=for-the-badge&logo=powershell" />
-  <img src="https://img.shields.io/badge/Code-Bash-4EAA25?style=for-the-badge&logo=gnu-bash" />
-</p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
 <div align="center">
-<a href="https://github.com/mmalagonm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmalagonm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmalagonm&layout=compact&theme=tokyonight"/>
-</a>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Manuel%20Malagón&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=SysAdmin%20%7C%20ASIR%20%7C%20Network%20Engineer&descFontSize=20&descAlignY=60&descAlign=50"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=2870F7&center=true&vCenter=true&width=500&lines=Especialista+en+Redes+y+Sistemas;Automatizaci%C3%B3n+con+Python+%26+Bash;Administraci%C3%B3n+Windows+%2F+Linux;Buscando+nuevos+retos+en+IT+Cloud" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <h3>🛠️ Mi Stack Tecnológico</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure_Cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+
+  <br>
+
+  <h3>🚀 Proyectos Destacados</h3>
+  
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🔧 Scripting & SysAdmin</h3>
+        <a href="https://github.com/mmalagonm/SysAdmin-Network-Toolkit">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-CLI_Tools-success?style=for-the-badge&logo=github" />
+        </a>
+        <br><br>
+        <p>Automatización de tareas administrativas.</p>
+        <ul align="left">
+          <li>✅ Alta masiva usuarios (PowerShell)</li>
+          <li>✅ Menús interactivos (Bash/Batch)</li>
+          <li>✅ Monitor de Recursos (Python)</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <h3>🌐 Infraestructura & Redes</h3>
+        <a href="https://github.com/mmalagonm/Cisco-PacketTracer-Labs">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-Cisco_Labs-blue?style=for-the-badge&logo=cisco" />
+        </a>
+        <br><br>
+        <p>Simulaciones de arquitectura de red.</p>
+        <ul align="left">
+          <li>✅ WAN de 10 Routers (Routing)</li>
+          <li>✅ Servidores DNS y DHCP</li>
+          <li>✅ Seguridad y Switching</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h3>📊 Actividad en GitHub</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmalagonm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmalagonm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+
+  <br><br>
+
+  <a href="PON_TU_URL_DE_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mmalagonmayoral@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br><br>
 </div>
-
----
-
-### 📫 Contacto
-
-Si quieres hablar de proyectos, ofertas o tecnología:
-
-
-[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail)](mailto:mmalagonmayoral@gmail.com)
