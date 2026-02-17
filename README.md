@@ -58,21 +58,13 @@
     </tr>
   </table>
 
-  <br>
 
-  <h3>📊 Actividad en GitHub</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mmalagonm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmalagonm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
 
-  <br><br>
+ 
+Si quieres hablar de proyectos, ofertas o tecnología:
 
-  <a href="PON_TU_URL_DE_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mmalagonmayoral@gmail.com">
-    <img src="https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail)](mailto:mmalagonmayoral@gmail.com)
 
   <br><br>
 </div>
